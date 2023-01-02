@@ -1,9 +1,5 @@
 # inetBankingP1
 This is a complete Selenium Hybrid Framework Test
-# Screenshots of the project
-![Screenshot 2023-01-02 144837](https://user-images.githubusercontent.com/116425949/210213051-33c1ba6e-bb20-4019-b1c7-262b8b0e80b6.png)
-![Screenshot 2023-01-02 144951](https://user-images.githubusercontent.com/116425949/210213078-0c048274-dbd6-49ee-af56-205a33dd279c.png)
-
 # Implementation
 1. Created Maven project - inetBankingP1
 2. Added necessary dependencies and plugins in pom.xml
@@ -56,4 +52,6 @@ This is a complete Selenium Hybrid Framework Test
 2. Committing the project code in local repository
 3. Push the project code to GitHub remote repository from local Git repository
 4. Execute project using Maven project (by configuring repository URL in Source Code Management)
-
+# Screenshots of the project
+![Screenshot 2023-01-02 144837](https://user-images.githubusercontent.com/116425949/210213051-33c1ba6e-bb20-4019-b1c7-262b8b0e80b6.png)
+![Screenshot 2023-01-02 144951](https://user-images.githubusercontent.com/116425949/210213078-0c048274-dbd6-49ee-af56-205a33dd279c.png)
