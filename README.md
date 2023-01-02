@@ -55,3 +55,4 @@ This is a complete Selenium Hybrid Framework Test
 # Screenshots of the project
 ![Screenshot 2023-01-02 144837](https://user-images.githubusercontent.com/116425949/210213051-33c1ba6e-bb20-4019-b1c7-262b8b0e80b6.png)
 ![Screenshot 2023-01-02 144951](https://user-images.githubusercontent.com/116425949/210213078-0c048274-dbd6-49ee-af56-205a33dd279c.png)
+![Screenshot 2023-01-02 151423](https://user-images.githubusercontent.com/116425949/210215354-995b282b-4c06-4610-99fc-fc85fa92feb1.png)
