@@ -216,3 +216,7 @@
 [INFO ] 2023-01-01 20:55:03.935 [main] BaseClass - Entered username
 [INFO ] 2023-01-01 20:55:04.085 [main] BaseClass - Entered password
 [INFO ] 2023-01-01 20:55:09.469 [main] BaseClass - Login test passed
+[INFO ] 2023-01-02 09:35:12.872 [main] BaseClass - URL is opened
+[INFO ] 2023-01-02 09:35:13.442 [main] BaseClass - Entered username
+[INFO ] 2023-01-02 09:35:13.667 [main] BaseClass - Entered password
+[INFO ] 2023-01-02 09:35:20.646 [main] BaseClass - Login test passed
