@@ -220,3 +220,60 @@
 [INFO ] 2023-01-02 09:35:13.442 [main] BaseClass - Entered username
 [INFO ] 2023-01-02 09:35:13.667 [main] BaseClass - Entered password
 [INFO ] 2023-01-02 09:35:20.646 [main] BaseClass - Login test passed
+[INFO ] 2023-06-16 14:42:59.271 [main] BaseClass - URL is opened
+[INFO ] 2023-06-16 14:42:59.498 [main] BaseClass - Entered username
+[INFO ] 2023-06-16 14:42:59.576 [main] BaseClass - Entered password
+[INFO ] 2023-06-16 14:49:31.936 [main] BaseClass - URL is opened
+[INFO ] 2023-06-16 14:49:32.133 [main] BaseClass - Entered username
+[INFO ] 2023-06-16 14:49:32.203 [main] BaseClass - Entered password
+[INFO ] 2023-06-16 14:49:38.225 [main] BaseClass - Login test passed
+[INFO ] 2023-06-16 15:33:29.950 [main] BaseClass - URL is opened
+[INFO ] 2023-06-16 15:33:30.304 [main] BaseClass - Entered username
+[INFO ] 2023-06-16 15:33:30.622 [main] BaseClass - Entered password
+[INFO ] 2023-06-16 15:33:36.279 [main] BaseClass - Login test passed
+[INFO ] 2023-06-16 15:34:27.536 [main] BaseClass - URL is opened
+[INFO ] 2023-06-16 15:34:27.903 [main] BaseClass - Entered username
+[INFO ] 2023-06-16 15:34:28.065 [main] BaseClass - Entered password
+[INFO ] 2023-06-16 15:34:32.853 [main] BaseClass - Login test passed
+[INFO ] 2023-06-16 15:34:59.327 [main] BaseClass - URL is opened
+[INFO ] 2023-06-16 15:34:59.666 [main] BaseClass - Entered username
+[INFO ] 2023-06-16 15:34:59.848 [main] BaseClass - Entered password
+[INFO ] 2023-06-16 15:35:07.685 [main] BaseClass - Login test passed
+[INFO ] 2023-06-16 15:39:42.883 [main] BaseClass - URL is opened
+[INFO ] 2023-06-16 15:39:43.338 [main] BaseClass - Entered username
+[INFO ] 2023-06-16 15:39:43.537 [main] BaseClass - Entered password
+[INFO ] 2023-06-16 15:39:49.507 [main] BaseClass - Login test passed
+[INFO ] 2023-06-16 15:40:04.040 [main] BaseClass - user name provided
+[INFO ] 2023-06-16 15:40:04.257 [main] BaseClass - password provided
+[INFO ] 2023-06-16 15:40:12.566 [main] BaseClass - user name provided
+[INFO ] 2023-06-16 15:40:12.855 [main] BaseClass - password provided
+[INFO ] 2023-06-16 15:40:20.647 [main] BaseClass - user name provided
+[INFO ] 2023-06-16 15:40:20.858 [main] BaseClass - password provided
+[INFO ] 2023-06-16 15:40:28.782 [main] BaseClass - user name provided
+[INFO ] 2023-06-16 15:40:28.932 [main] BaseClass - password provided
+[INFO ] 2023-06-16 15:40:36.405 [main] BaseClass - user name provided
+[INFO ] 2023-06-16 15:40:36.633 [main] BaseClass - password provided
+[INFO ] 2023-06-16 15:40:57.441 [main] BaseClass - user name is provided
+[INFO ] 2023-06-16 15:40:57.755 [main] BaseClass - Password is provided
+[INFO ] 2023-06-16 15:41:02.811 [main] BaseClass - providing customer details....
+[INFO ] 2023-06-16 15:41:05.956 [main] BaseClass - there are 17 add iframes
+[INFO ] 2023-06-16 15:49:16.470 [main] BaseClass - URL is opened
+[INFO ] 2023-06-16 15:49:16.798 [main] BaseClass - Entered username
+[INFO ] 2023-06-16 15:49:17.033 [main] BaseClass - Entered password
+[INFO ] 2023-06-16 15:49:21.867 [main] BaseClass - Login test passed
+[INFO ] 2023-06-16 15:49:36.600 [main] BaseClass - user name provided
+[INFO ] 2023-06-16 15:49:36.782 [main] BaseClass - password provided
+[INFO ] 2023-06-16 15:49:44.237 [main] BaseClass - Login passed
+[INFO ] 2023-06-16 15:49:53.834 [main] BaseClass - user name provided
+[INFO ] 2023-06-16 15:49:54.154 [main] BaseClass - password provided
+[INFO ] 2023-06-16 15:50:02.226 [main] BaseClass - user name provided
+[INFO ] 2023-06-16 15:50:02.585 [main] BaseClass - password provided
+[INFO ] 2023-06-16 15:50:09.019 [main] BaseClass - user name provided
+[INFO ] 2023-06-16 15:50:09.344 [main] BaseClass - password provided
+[INFO ] 2023-06-16 15:50:14.446 [main] BaseClass - Login passed
+[INFO ] 2023-06-16 15:50:22.199 [main] BaseClass - user name provided
+[INFO ] 2023-06-16 15:50:22.542 [main] BaseClass - password provided
+[INFO ] 2023-06-16 15:50:42.394 [main] BaseClass - user name is provided
+[INFO ] 2023-06-16 15:50:42.574 [main] BaseClass - Password is provided
+[INFO ] 2023-06-16 15:50:48.597 [main] BaseClass - providing customer details....
+[INFO ] 2023-06-16 15:50:51.768 [main] BaseClass - there are 17 add iframes

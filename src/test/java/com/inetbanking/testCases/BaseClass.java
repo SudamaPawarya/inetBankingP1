@@ -17,6 +17,8 @@ import org.testng.annotations.Parameters;
 
 import com.inetbanking.utilities.ReadConfig;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 public class BaseClass {
 	
 	ReadConfig readconfig=new ReadConfig(); //creating a object and the ReadConfig() constructor will be
@@ -40,7 +42,8 @@ public class BaseClass {
 		if (br.equals("chrome"))
 		{
 		//System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"\\Drivers\\chromedriver.exe");
-		System.setProperty("webdriver.chrome.driver",readconfig.getChromePath());
+		//System.setProperty("webdriver.chrome.driver",readconfig.getChromePath());
+		WebDriverManager.chromedriver().setup();
 		driver=new ChromeDriver();
 		}
 		else if (br.equals("firefox"))
